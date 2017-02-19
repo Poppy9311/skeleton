@@ -1,0 +1,2 @@
+# skeleton
+second resources
